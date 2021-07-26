@@ -1,2 +1,2 @@
 # tricky-game :x: :o:
-My approach to the Tricky Game using Jupiter Notebooks
+My approach to the Tricky Game using Jupyter Notebooks
